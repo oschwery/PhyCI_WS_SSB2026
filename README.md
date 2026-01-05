@@ -2,7 +2,7 @@
 Files for Participants of [Phylogenetic Causal Inference Workshop](https://ssb2026.github.io/phyloCausalInference.html) at the [2026 SSB Breakout Meeting](https://ssb2026.github.io).
 
 ### Readings
-#### Required readings
+#### Required Readings
 We will work through two case studies based on published articles.
 Skim them to already have a sense of questions, story, and supporting evidence.
 Focus on how methods test hypothesis conceptually, rather than technical details. 
@@ -12,7 +12,7 @@ What would you predict to see if the hypothesized causal effect was real?
 - **Marki et al. (2019)** does quite a lot of analyses to answer questions on different aspects of that system. For the workshop, focus on the hypothesis that the evolution of nectarivory led to increased rates of morphological evolution, especially diversity in body-size.
 - Additionally, read a brief **excerpt from Uyeda et al (2018)**, focusing on phylogenetic pseudoreplication.
 
-#### Optional Reading
+#### Optional Readings
 For those who want a teaser on causal inference concepts, feel free to look at the remaining two papers.
 They give a general introduction to the relevant principles, but focus on application to other fields, so their case studies may go too deep into the technical specifics for our purpose.
 - Byrnes & Dee (2025) introduce causal inference concepts for ecology and focus on the issues of observed data and confounding (Omitted Variable Bias).
