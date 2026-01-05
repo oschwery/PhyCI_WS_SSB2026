@@ -16,5 +16,5 @@ What would you predict to see if the hypothesized causal effect was real?
 For those who want a teaser on causal inference concepts, feel free to look at the remaining two papers.
 They give a general introduction to the relevant principles, but focus on application to other fields, so their case studies may go too deep into the technical specifics for our purpose.
 - Byrnes & Dee (2025) introduce causal inference concepts for ecology and focus on the issues of observed data and confounding (Omitted Variable Bias).
-o	Barrero Guevara et al. (2024) focus on climate and infectious diseases, but give a good introduction to basic causal principles (including the concept of pseudo-experiments) in Figure 1 and the introduction.
+- Barrero Guevara et al. (2024) focus on climate and infectious diseases, but give a good introduction to basic causal principles (including the concept of pseudo-experiments) in Figure 1 and the introduction.
 
