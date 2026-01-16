@@ -1,6 +1,13 @@
 # PhyCI_WS_SSB2026
 Files for Participants of [Phylogenetic Causal Inference Workshop](https://ssb2026.github.io/phyloCausalInference.html) at the [2026 SSB Breakout Meeting](https://ssb2026.github.io).
 
+### Slides_Handouts
+- **PrimerPCI_SSB2026.pdf** contains the condensed/unanimated slides we presented at the workshop.
+- **PCI_WS_CaseStudy_Handout.pdf** is the non-print version of the handout, with colour-versions of the figures.
+
+### Code
+- **PCI_Confounders.R** contains the code needed to simulate confounder and d-sep-logic examples used in the lecture. It also contains some extra plots to explore the data more under the different confounder scenarios.
+
 ### Readings
 #### Required Readings
 We will work through two case studies based on published articles.
